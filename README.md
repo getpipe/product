@@ -32,11 +32,6 @@
 - Репет это алгоритм преобразования входящих узлов в результирующие узлы;
 
 
-## Референсы
-- Soylent https://soylent.com
-- Одежда https://www.lot2046.com
-- Жилье http://www.evobuildingsystems.com
-
 ## Продукты
 - W:isher (отображение результирующих узлов "потребляемых" узлов)
 - F:orse (формирование и оптимизация входящих узлов / Написание рецептов )
@@ -101,6 +96,11 @@
 
 
 ## Референсы
+- Soylent https://soylent.com https://eatnonfood.com/
+- Одежда https://www.lot2046.com
+- Жилье http://www.evobuildingsystems.com https://urbit.org/
+
+
 - минималисты
 - венера
 - уан шеирд хаус
