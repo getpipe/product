@@ -98,7 +98,7 @@
 ## Референсы
 - Soylent https://soylent.com https://eatnonfood.com/
 - Одежда https://www.lot2046.com
-- Жилье http://www.evobuildingsystems.com https://urbit.org/
+- Жилье http://www.evobuildingsystems.com https://urbit.org/ http://cocoon9.com
 
 
 - минималисты
