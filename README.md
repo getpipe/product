@@ -72,21 +72,6 @@
 
 
 
-## Референсы
-### Еда 
- - https://soylent.com 
- - https://eatnonfood.com/
- 
-### Одежда
-- https://www.lot2046.com
-- http://www.evobuildingsystems.com 
-- https://urbit.org/
-- http://cocoon9.com
-
-### Лайфстайл
-- https://www.theminimalists.com/ 
-- https://www.thevenusproject.com/ 
-- http://onesharedhouse2030.com/
 
 
 # The HORN
@@ -122,16 +107,34 @@
 - Подписка
 - Коммисия со спонсорских карточек
 
-## Первичный заход через (немасштабируемые вещи)
+## Первичный заход через
+### Немасштабируемые вещи (Пол Грэм)
 - Конференции для Проджектов
 - Мастеркласы для продактов
-- Митапы для Дизайнеров
+- Митапы для Дизайнеров (митапы на созидательную аудиторию)
 
-
+### Масштабируемые вещи
 - ProductHunt
-- Доклад на отдающую аудиторию (cотрудники из образования, медицинские сотрудники, религиозные служители, инвесторы)
 - Лаифстаил фильм в виде минималистов
 
-
 Одержимость платформа и процессом. В HORN совмещается и одно и другое
+
+
+
+
+# Референсы
+### Еда 
+ - https://soylent.com 
+ - https://eatnonfood.com/
+ 
+### Одежда
+- https://www.lot2046.com
+- http://www.evobuildingsystems.com 
+- https://urbit.org/
+- http://cocoon9.com
+
+### Лайфстайл
+- https://www.theminimalists.com/ 
+- https://www.thevenusproject.com/ 
+- http://onesharedhouse2030.com/
 
