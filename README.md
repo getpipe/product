@@ -1,4 +1,4 @@
-## Product
+# Product
 **Format**
 - Spec
 https://github.com/orgs/thehornnode/projects/1
