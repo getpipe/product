@@ -49,3 +49,28 @@ Why did you pick this idea to work on? Do you have domain expertise in this area
 **Идея возникла из личного опыт. Так или иначе, каждый из фаундеров сталкивался с проблемами, которые мы решаем. У нас есть опыт работы в крупной компании, мы работаем над собственным open source проектом и все мы как специалисты начинали свою карьеру. В первую очередь наш продук помог бы нам. В дополнении ко всему мы провели опрос, который ...**
 
 What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+
+
+
+**Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain**.
+Никто из фаундеров не задействован в аналогичных проектах на которых бы был ‘связан’ не aконкурентными договорами
+
+
+**Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain**. 
+Так у нас у нас есть хороший опыт в фронтенд разработке (и опенсорс проект, в котором состав факндеров совпадает с составом мёйнтейнеров), разработку интерфейса мы сделали своими силами.
+
+**Is there anything else we should know about your company?**
+Нет ничего не обычного, с чем бы могли возникнуть сложности.
+
+**If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.**
+На самом деле мы не подстраивались искусственно под YCombinator, мы исследовали проблемы, сформировали несколько гипотез по их решению, собрали первый прототип и приняли решение заполнить Application для получения новой экспертизы.
+
+**Please tell us something surprising or amusing that one of you has discovered.**
+Пока ничего
+
+**What convinced you to apply to Y Combinator? Did someone encourage you to apply?**
+Вдохновили видео прошлых сезонов, подкасты с кураторами и продукты которые выпучились из акселератора
+
+
+**How did you hear about Y Combinator**? 
+YCombinator подкаст и портал VC
