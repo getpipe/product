@@ -6,7 +6,7 @@ Demo: —
 
 Describe your company in 50 characters or less.
 
-**Node platform for building collaboration process**
+**A Node platform for building business process**
 
 What is your company going to make?
 
